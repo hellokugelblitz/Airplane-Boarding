@@ -3,4 +3,4 @@ This is a little simulation i'm making for different methods of boarding airplan
 
 I got the idea for this project here: https://www.youtube.com/watch?v=oAHbLRjF0vo
 
-I will eventually try to build some sort of GUI for it, probably with something like pygame.
+I will eventually try to build some sort of GUI for it, probably with something like pygame, but for right now it works with CLI.
